@@ -1,0 +1,24 @@
+.middle {
+	background-color: lightgrey;
+	position: relative;
+	height: 400px;
+	width: 80%;
+}
+
+.nexttomiidle {
+	background-color: blue;
+	position: absolute;
+	height: 200px;
+	width: 200px;
+	left: 85%;
+	bottom: 0px;
+
+}
+
+.fixed {
+	position:fixed;
+	background: #eee
+	padding: 20px;
+	text-align: 
+
+}
